@@ -1,0 +1,2 @@
+# MongoDB $in operator with array of arrays
+This example demonstrates an uncommon error in MongoDB queries involving the `$in` operator.  Incorrect usage of `$in` with an array of arrays can lead to unexpected behavior. The correct approach involves restructuring the query to match individual array elements.
